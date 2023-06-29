@@ -131,6 +131,13 @@ img {
     border-color: var(--color-brand2);
 }
 
+.ed-box{
+    height: 200px;
+}
+.review{
+    height: 260px;
+}
+
 .link-custom {
     font-weight: 700;
     position: relative;
