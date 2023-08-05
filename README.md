@@ -1,1 +1,1 @@
-<h1 style='text-alien:center;'>My Name Is Ariful Islam Arfat</h1>
+<h1 style='text-align:center'>My Name Is Ariful Islam Arfat</h1>
